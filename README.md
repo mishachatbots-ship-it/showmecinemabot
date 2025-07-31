@@ -1,0 +1,2 @@
+# showmecinemabot
+simple bot
